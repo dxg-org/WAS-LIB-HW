@@ -10,7 +10,7 @@ function createApplication() {
         <div class="hero-body">
             <div class="container">
                 <h1 class="title">
-                    Congratulations
+                    Congratulations DXG
                 </h1>
                 <h2 class="subtitle">
                     You are currently running a NodeJS server.
